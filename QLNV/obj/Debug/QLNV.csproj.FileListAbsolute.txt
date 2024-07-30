@@ -1,0 +1,10 @@
+E:\Winform\QLNV\QLNV\bin\Debug\QLNV.exe.config
+E:\Winform\QLNV\QLNV\bin\Debug\QLNV.exe
+E:\Winform\QLNV\QLNV\bin\Debug\QLNV.pdb
+E:\Winform\QLNV\QLNV\obj\Debug\QLNV.csproj.AssemblyReference.cache
+E:\Winform\QLNV\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+E:\Winform\QLNV\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+E:\Winform\QLNV\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+E:\Winform\QLNV\QLNV\obj\Debug\QLNV.exe
+E:\Winform\QLNV\QLNV\obj\Debug\QLNV.pdb
+E:\Winform\QLNV\QLNV\obj\Debug\QLNV.QLNV.resources
