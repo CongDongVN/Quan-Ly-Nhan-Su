@@ -1,0 +1,10 @@
+E:\Winform\QLPB\QLPB\bin\Debug\QLPB.exe.config
+E:\Winform\QLPB\QLPB\bin\Debug\QLPB.exe
+E:\Winform\QLPB\QLPB\bin\Debug\QLPB.pdb
+E:\Winform\QLPB\QLPB\obj\Debug\QLPB.csproj.AssemblyReference.cache
+E:\Winform\QLPB\QLPB\obj\Debug\QLPB.Form1.resources
+E:\Winform\QLPB\QLPB\obj\Debug\QLPB.Properties.Resources.resources
+E:\Winform\QLPB\QLPB\obj\Debug\QLPB.csproj.GenerateResource.cache
+E:\Winform\QLPB\QLPB\obj\Debug\QLPB.csproj.CoreCompileInputs.cache
+E:\Winform\QLPB\QLPB\obj\Debug\QLPB.exe
+E:\Winform\QLPB\QLPB\obj\Debug\QLPB.pdb

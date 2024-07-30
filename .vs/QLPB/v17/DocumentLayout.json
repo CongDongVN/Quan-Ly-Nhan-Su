@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Winform\\QLPB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{568099D8-0583-4615-B923-35FAFD953841}|QLPB\\QLPB.csproj|d:\\winform\\qlpb\\qlpb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568099D8-0583-4615-B923-35FAFD953841}|QLPB\\QLPB.csproj|solutionrelative:qlpb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568099D8-0583-4615-B923-35FAFD953841}|QLPB\\QLPB.csproj|D:\\Winform\\QLPB\\qlpb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{568099D8-0583-4615-B923-35FAFD953841}|QLPB\\QLPB.csproj|solutionrelative:qlpb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Winform\\QLPB\\QLPB\\Form1.cs",
+              "RelativeDocumentMoniker": "QLPB\\Form1.cs",
+              "ToolTip": "D:\\Winform\\QLPB\\QLPB\\Form1.cs",
+              "RelativeToolTip": "QLPB\\Form1.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAADwv4cAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:21:35.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Winform\\QLPB\\QLPB\\Form1.cs",
+              "RelativeDocumentMoniker": "QLPB\\Form1.cs",
+              "ToolTip": "D:\\Winform\\QLPB\\QLPB\\Form1.cs [Design]",
+              "RelativeToolTip": "QLPB\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:13:06.582Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
